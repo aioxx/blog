@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'TGRock.Club',
   author: 'Anonbd',
   headerTitle: 'Tgrock',
-  description: '🧪 𝕋𝕌𝕋𝕆ℝ𝕀𝔸𝕃𝕊 𝔸𝔹𝕆𝕌𝕋 𝔼𝕍𝔼ℝ𝕐𝕋ℍ𝕀ℕ𝔾🧪',
+  description: '𝕋𝕌𝕋𝕆ℝ𝕀𝔸𝕃𝕊 𝔸𝔹𝕆𝕌𝕋 𝔼𝕍𝔼ℝ𝕐𝕋ℍ𝕀ℕ𝔾',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.tgrock.club',
